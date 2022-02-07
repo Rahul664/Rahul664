@@ -5,7 +5,7 @@
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul664&show_icons=true&theme=radical)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Rahul664/Rahul664/blob/main/devcard.svg" width="400" height="400" alt="Rahul's Dev Card"/></a>
+<a href="https://app.daily.dev/rsh664"><img src="https://github.com/Rahul664/Rahul664/blob/main/devcard.svg" width="400" height="400" alt="Rahul's Dev Card"/></a>
 
 - 🔭 I’m currently working on my Masters @ University of California, Merced.
 - 📫 Reach me rahulhoskeri7@gmail.com
