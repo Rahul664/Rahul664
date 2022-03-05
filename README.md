@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">PhD Student @ University of California, Merced.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul664&label=Profile%20views&color=0e75b6&style=flat" alt="rahul664" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahul664&label=Profile%20views&color=0e75b6&style=flat" alt="rahul664" /> </p>
 <table>
 <tbody>
   
@@ -33,7 +33,9 @@
 
 - 📫 How to reach me **rahulhoskeri7@gmail.com**
 
-<table align='center'>
+
+
+<table align='center' style="background-color:#FFFFE0;">
 <tbody>
   
 <tr>
