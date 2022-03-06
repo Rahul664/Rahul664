@@ -84,7 +84,7 @@
 <tbody>
 <tr>
 <td><h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rahulsh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rahulsh" /></a></p><br><br></td>
+<p><a href="https://www.buymeacoffee.com/rahulsh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="150" alt="rahulsh" /></a></p><br><br></td>
 </tr>
 </tbody>
 </table>
